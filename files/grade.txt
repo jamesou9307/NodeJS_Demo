@@ -1,0 +1,1 @@
+red=88,blue=70,green=75,yellow=89,pink=91
