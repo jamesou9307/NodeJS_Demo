@@ -1,0 +1,10 @@
+{
+  "name": "james-npm-demo-tools",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "npm包demo,包含了格式化日期和HTMLEscape功能",
+  "keywords": ["james-npm","dataFormat","escape"],
+  "license": "ISC",
+  "dependencies": {
+  }
+}
