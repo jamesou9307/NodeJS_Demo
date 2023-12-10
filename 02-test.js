@@ -16,3 +16,6 @@ const htmlUnEscapeStr=james_tools.htmlUnEscape(htmlEscapeStr01)
 
 console.log('反转义......')
 console.log(htmlUnEscapeStr)
+
+const info=james_tools.info
+console.log(info.author)
